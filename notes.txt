@@ -1,0 +1,2 @@
+“	dt. Anführungszeichen oben	alt + shift + ^
+‘	einfaches dt. Anführungszeichen oben	alt + #
